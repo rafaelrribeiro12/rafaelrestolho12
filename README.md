@@ -36,6 +36,6 @@
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Rafael R. Ribeiro](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafaelrestolho12/)
-[![Gmail](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelrestolho12@gmail.com)](mailto:rafaelrestolho12@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Send_me_an_Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelrestolho12@gmail.com)](mailto:rafaelrestolho12@gmail.com)
 [![GitHub RafaelRestolho12]( https://img.shields.io/github/followers/rafaelrestolho12?label=follow&style=social)](https://github.com/rafaelrestolho12)
 

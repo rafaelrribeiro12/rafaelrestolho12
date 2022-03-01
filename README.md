@@ -1,15 +1,15 @@
 
 ![](https://komarev.com/ghpvc/?username=rafaelrestolho12&color=006bed)
 
-<h3>   👨‍💻&nbsp;About me <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="31" height="23" > </h3>
+<h3>   👨‍💻&nbsp;Sobre mim <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="31" height="23" > </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying **TECHNOLOGIST IN SYSTEM ANALYSIS** in <a href="https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/">UNICESUMAR</a>.
-- 💼 &nbsp; Working as an **TRAINEE** in <a href="http://www.agili.com.br/">ÁGILI SOFTWARE BRASIL</a>
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/">UNICESUMAR</a>.
+- 💼 &nbsp; Trabalhando como  **Desenvolvedor de Sistemas Trainee** na <a href="http://www.agili.com.br/">ÁGILI SOFTWARE BRASIL</a>
 
-<h3> :rocket: &nbsp;My skills </h3>
+<h3> :rocket: &nbsp;Habilidades </h3>
 
-**Applications and Data**
+**Conhecimentos**
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -33,7 +33,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Rafael R. Ribeiro](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafaelrestolho12/)
 [![Gmail](https://img.shields.io/badge/-Send_me_an_Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelrestolho12@gmail.com)](mailto:rafaelrestolho12@gmail.com)

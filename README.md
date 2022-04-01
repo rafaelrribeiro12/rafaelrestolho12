@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/">UNICESUMAR</a>.
-- 💼 &nbsp; Trabalhando como  **Desenvolvedor de Sistemas Trainee** na <a href="http://www.agili.com.br/">ÁGILI SOFTWARE BRASIL</a>
+- 💼 &nbsp; Trabalhando como  **Desenvolvedor de Sistemas Junior** na <a href="http://www.agili.com.br/">ÁGILI SOFTWARE BRASIL</a>
 
 <h3> :rocket: &nbsp;Habilidades </h3>
 

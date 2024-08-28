@@ -4,8 +4,8 @@
 <h3>   👨‍💻&nbsp;Sobre mim <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="31" height="23" > </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/">UNICESUMAR</a>.
-- 💼 &nbsp; Trabalhando como  **Desenvolvedor de Sistemas Junior** na <a href="http://www.agili.com.br/">ÁGILI SOFTWARE BRASIL</a>
+- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/">UNICESUMAR</a>.
+- 💼 &nbsp; Trabalhando como  **Desenvolvedor de Sistemas** na <a href="http://www.agili.com.br/">ÁGILI SOFTWARE BRASIL</a>
 
 <h3> :rocket: &nbsp;Habilidades </h3>
 
